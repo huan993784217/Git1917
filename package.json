@@ -1,0 +1,22 @@
+{
+  "name": "git1917",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huan993784217/Git1917.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huan993784217/Git1917/issues"
+  },
+  "homepage": "https://github.com/huan993784217/Git1917#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
